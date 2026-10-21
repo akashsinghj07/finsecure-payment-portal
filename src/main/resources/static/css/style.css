@@ -1,0 +1,36 @@
+body {
+    background-color: #f1f5f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-custom {
+    background-color: #0a2540;
+    border-bottom: 3px solid #1e40af;
+}
+
+.card-custom {
+    border: none;
+    border-radius: 14px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+.balance-badge {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #0a2540;
+}
+
+.btn-bank {
+    background-color: #1e40af;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 10px 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-bank:hover {
+    background-color: #1e3a8a;
+    color: #ffffff;
+}
